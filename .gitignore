@@ -29,3 +29,6 @@
 /*.egg
 /docs/_build
 /htmlcov
+/.project
+/.pydevproject
+/.settings/
